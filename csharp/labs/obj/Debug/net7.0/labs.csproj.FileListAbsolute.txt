@@ -1,0 +1,15 @@
+/home/w1png/college/csharp/labs/bin/Debug/net7.0/labs
+/home/w1png/college/csharp/labs/bin/Debug/net7.0/labs.deps.json
+/home/w1png/college/csharp/labs/bin/Debug/net7.0/labs.runtimeconfig.json
+/home/w1png/college/csharp/labs/bin/Debug/net7.0/labs.dll
+/home/w1png/college/csharp/labs/bin/Debug/net7.0/labs.pdb
+/home/w1png/college/csharp/labs/obj/Debug/net7.0/labs.csproj.AssemblyReference.cache
+/home/w1png/college/csharp/labs/obj/Debug/net7.0/labs.GeneratedMSBuildEditorConfig.editorconfig
+/home/w1png/college/csharp/labs/obj/Debug/net7.0/labs.AssemblyInfoInputs.cache
+/home/w1png/college/csharp/labs/obj/Debug/net7.0/labs.AssemblyInfo.cs
+/home/w1png/college/csharp/labs/obj/Debug/net7.0/labs.csproj.CoreCompileInputs.cache
+/home/w1png/college/csharp/labs/obj/Debug/net7.0/labs.dll
+/home/w1png/college/csharp/labs/obj/Debug/net7.0/refint/labs.dll
+/home/w1png/college/csharp/labs/obj/Debug/net7.0/labs.pdb
+/home/w1png/college/csharp/labs/obj/Debug/net7.0/labs.genruntimeconfig.cache
+/home/w1png/college/csharp/labs/obj/Debug/net7.0/ref/labs.dll

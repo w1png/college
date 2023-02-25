@@ -1,0 +1,5 @@
+/home/w1png/college/csharp/accounts_auth/obj/Debug/net7.0/accounts_auth.csproj.AssemblyReference.cache
+/home/w1png/college/csharp/accounts_auth/obj/Debug/net7.0/accounts_auth.GeneratedMSBuildEditorConfig.editorconfig
+/home/w1png/college/csharp/accounts_auth/obj/Debug/net7.0/accounts_auth.AssemblyInfoInputs.cache
+/home/w1png/college/csharp/accounts_auth/obj/Debug/net7.0/accounts_auth.AssemblyInfo.cs
+/home/w1png/college/csharp/accounts_auth/obj/Debug/net7.0/accounts_auth.csproj.CoreCompileInputs.cache

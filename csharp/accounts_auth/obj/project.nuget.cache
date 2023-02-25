@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PVKHXKCXV+NXfSxWqOW7fw03eQ3COHBCAWwUxRAhhaSJjwA7KRea2OAyF3L7d5Ao1vBMXZisl2BHGSKVCBdhfQ==",
+  "success": true,
+  "projectFilePath": "/home/w1png/college/csharp/accounts_auth/accounts_auth.csproj",
+  "expectedPackageFiles": [
+    "/home/w1png/.nuget/packages/stub.system.data.sqlite.core.netstandard/1.0.117/stub.system.data.sqlite.core.netstandard.1.0.117.nupkg.sha512",
+    "/home/w1png/.nuget/packages/system.data.sqlite.core/1.0.117/system.data.sqlite.core.1.0.117.nupkg.sha512"
+  ],
+  "logs": []
+}

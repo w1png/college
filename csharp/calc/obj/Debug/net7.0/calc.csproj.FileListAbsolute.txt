@@ -1,0 +1,15 @@
+/home/w1png/college/csharp/calc/bin/Debug/net7.0/calc
+/home/w1png/college/csharp/calc/bin/Debug/net7.0/calc.deps.json
+/home/w1png/college/csharp/calc/bin/Debug/net7.0/calc.runtimeconfig.json
+/home/w1png/college/csharp/calc/bin/Debug/net7.0/calc.dll
+/home/w1png/college/csharp/calc/bin/Debug/net7.0/calc.pdb
+/home/w1png/college/csharp/calc/obj/Debug/net7.0/calc.csproj.AssemblyReference.cache
+/home/w1png/college/csharp/calc/obj/Debug/net7.0/calc.GeneratedMSBuildEditorConfig.editorconfig
+/home/w1png/college/csharp/calc/obj/Debug/net7.0/calc.AssemblyInfoInputs.cache
+/home/w1png/college/csharp/calc/obj/Debug/net7.0/calc.AssemblyInfo.cs
+/home/w1png/college/csharp/calc/obj/Debug/net7.0/calc.csproj.CoreCompileInputs.cache
+/home/w1png/college/csharp/calc/obj/Debug/net7.0/calc.dll
+/home/w1png/college/csharp/calc/obj/Debug/net7.0/refint/calc.dll
+/home/w1png/college/csharp/calc/obj/Debug/net7.0/calc.pdb
+/home/w1png/college/csharp/calc/obj/Debug/net7.0/calc.genruntimeconfig.cache
+/home/w1png/college/csharp/calc/obj/Debug/net7.0/ref/calc.dll

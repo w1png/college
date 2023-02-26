@@ -1,0 +1,15 @@
+/home/w1png/college/csharp/fruit_threading/bin/Debug/net7.0/fruit_threading
+/home/w1png/college/csharp/fruit_threading/bin/Debug/net7.0/fruit_threading.deps.json
+/home/w1png/college/csharp/fruit_threading/bin/Debug/net7.0/fruit_threading.runtimeconfig.json
+/home/w1png/college/csharp/fruit_threading/bin/Debug/net7.0/fruit_threading.dll
+/home/w1png/college/csharp/fruit_threading/bin/Debug/net7.0/fruit_threading.pdb
+/home/w1png/college/csharp/fruit_threading/obj/Debug/net7.0/fruit_threading.csproj.AssemblyReference.cache
+/home/w1png/college/csharp/fruit_threading/obj/Debug/net7.0/fruit_threading.GeneratedMSBuildEditorConfig.editorconfig
+/home/w1png/college/csharp/fruit_threading/obj/Debug/net7.0/fruit_threading.AssemblyInfoInputs.cache
+/home/w1png/college/csharp/fruit_threading/obj/Debug/net7.0/fruit_threading.AssemblyInfo.cs
+/home/w1png/college/csharp/fruit_threading/obj/Debug/net7.0/fruit_threading.csproj.CoreCompileInputs.cache
+/home/w1png/college/csharp/fruit_threading/obj/Debug/net7.0/fruit_threading.dll
+/home/w1png/college/csharp/fruit_threading/obj/Debug/net7.0/refint/fruit_threading.dll
+/home/w1png/college/csharp/fruit_threading/obj/Debug/net7.0/fruit_threading.pdb
+/home/w1png/college/csharp/fruit_threading/obj/Debug/net7.0/fruit_threading.genruntimeconfig.cache
+/home/w1png/college/csharp/fruit_threading/obj/Debug/net7.0/ref/fruit_threading.dll

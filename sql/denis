@@ -1,0 +1,43 @@
+CREATE TABLE IF NOT EXISTS "brand" (
+	"id"	INTEGER,
+	"name"	TEXT,
+	"country"	INTEGER,
+	PRIMARY KEY("id")
+);
+
+CREATE TABLE IF NOT EXISTS "sneakers" (
+	"id"	INTEGER,
+	"brand_id"	INTEGER,
+	"is_in_stock"	INTEGER,
+	"price"	REAL,
+	"name"	TEXT,
+	PRIMARY KEY("id")
+);
+
+CREATE TABLE IF NOT EXISTS "user" (
+	"id"	INTEGER,
+	"name"	TEXT,
+	"adress"	TEXT,
+	"balance"	REAL,
+	"foot_size"	REAL,
+	PRIMARY KEY("id")
+);
+
+INSERT INTO user (name, adress, balance, foot_size) VALUES("Виталя", "ул.Бандеровка", 999999, 45);
+INSERT INTO user (name, adress, balance, foot_size) VALUES("Дэниус", "ул.Адольфа", 13000, 42);
+INSERT INTO user (name, adress, balance, foot_size) VALUES("Виктор_Дуб_2005", "ул.Победы", 7000, 40);
+INSERT INTO brand (name, country) VALUES("Абибас", "Китай");
+INSERT INTO brand (name, country) VALUES("Витязь", "Россия");
+INSERT INTO brand (name, country) VALUES("Аирхайль", "Третий Рейх");
+INSERT INTO sneakers (brand_id, is_in_stock, price, name) VALUES(1, 0, 9999, "Блек_Биер_Гослинг_Форум_Уан");
+INSERT INTO sneakers (brand_id, is_in_stock, price, name) VALUES(2, 1, 1000, "Красуоак");
+INSERT INTO sneakers (brand_id, is_in_stock, price, name) VALUES(3, 1, 6000, "Гибтрбис");
+
+SELECT * FROM user;
+SELECT id FROM user;
+SELECT COUNT(id) FROM brand;
+SELECT SUM(price) FROM sneakers;
+SELECT name FROM brand UNION SELECT name FROM sneakers;
+SELECT * FROM brand INNER JOIN sneakers ON sneakers.brand_id=brand.id;
+
+

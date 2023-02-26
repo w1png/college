@@ -1,0 +1,15 @@
+/home/w1png/college/csharp/2/obj/Debug/net7.0/2.csproj.AssemblyReference.cache
+/home/w1png/college/csharp/2/obj/Debug/net7.0/2.GeneratedMSBuildEditorConfig.editorconfig
+/home/w1png/college/csharp/2/obj/Debug/net7.0/2.AssemblyInfoInputs.cache
+/home/w1png/college/csharp/2/obj/Debug/net7.0/2.AssemblyInfo.cs
+/home/w1png/college/csharp/2/obj/Debug/net7.0/2.csproj.CoreCompileInputs.cache
+/home/w1png/college/csharp/2/bin/Debug/net7.0/2
+/home/w1png/college/csharp/2/bin/Debug/net7.0/2.deps.json
+/home/w1png/college/csharp/2/bin/Debug/net7.0/2.runtimeconfig.json
+/home/w1png/college/csharp/2/bin/Debug/net7.0/2.dll
+/home/w1png/college/csharp/2/bin/Debug/net7.0/2.pdb
+/home/w1png/college/csharp/2/obj/Debug/net7.0/2.dll
+/home/w1png/college/csharp/2/obj/Debug/net7.0/refint/2.dll
+/home/w1png/college/csharp/2/obj/Debug/net7.0/2.pdb
+/home/w1png/college/csharp/2/obj/Debug/net7.0/2.genruntimeconfig.cache
+/home/w1png/college/csharp/2/obj/Debug/net7.0/ref/2.dll

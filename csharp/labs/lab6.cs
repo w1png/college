@@ -17,8 +17,8 @@ namespace Labs {
   public enum Color { Red, Orange, Yellow, Green, Cyan, Blue };
 
   class Lab6 {
-    static void PrintColor(Color[] arr) {
-      foreach (var color in arr) {
+    static void PrintColors(Color[] colors) {
+      foreach (var color in colors) {
         color.PrintColor();
         Console.Write(" ");
       }
@@ -30,7 +30,7 @@ namespace Labs {
       colors[0].PrintColor();
       Console.WriteLine("\n-------");
 
-      PrintColor(colors);
+      PrintColors(colors);
       Console.WriteLine("-------");
 
       Console.Write("Y/N: ");
